@@ -1,0 +1,4 @@
+Text-Only-App
+=============
+
+Has your phone ever been close to dying on you and you need to contact someone about something but you know that your phone will be dead in a few minutes. Well I have and I have always wanted an app that will allow me to disable everything but text and under clock the processor to preserve battery life so that you can get in touch with that person so that's why I'm here. Sadly I'm not to familiar with developing but I'm learning and I din't think I'm close enough to getting this idea to work since it will probably require root. If we can get together and get this app built together I'd be hoping to sell this on the google play store for 1 or 2 dollars 
